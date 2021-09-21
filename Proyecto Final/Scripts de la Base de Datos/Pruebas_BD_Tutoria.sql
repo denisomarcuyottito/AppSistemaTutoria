@@ -129,3 +129,5 @@ SELECT * FROM TUsuario
 SELECT * FROM TFichaTutoria
 SELECT * FROM TEstudiante
 SELECT * FROM Historial
+
+select * from Historial
